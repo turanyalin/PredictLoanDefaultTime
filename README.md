@@ -14,14 +14,6 @@ Employment Length
 Income Verification
 Produced interpretable outputs for financial risk assessment
 
-Project Structure
-credit-risk-survival-analysis/
-│
-├── CreditRisk.py             # Main analysis script
-├── requirements.txt          # Python dependencies
-├── .gitignore                # Excludes large dataset
-└── README.md                 # This file
-
 Requirements
 Install dependencies:
 
